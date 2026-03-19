@@ -15,3 +15,4 @@ Graph Attention Network (GAT) are widely used for classification uses attention 
 OBSERVATION: 
 According to training and evaluation, GCN has an accuracy of 0.665 and ROC-AUC of 0.704; and GAT has an accuracy of  0.733 and ROC-AUC of 0.814.
 while they both learn from aggregating neighbor information, GCN is simpler and and faster while GAT focuses on key particles and is more accurate.
+
